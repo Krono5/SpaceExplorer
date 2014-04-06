@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\movement.js">
+    <Files>
+      <File FileName="Assets\culling.js" Line="1" Column="1" />
+      <File FileName="Assets\OVR\Editor\OVRPrefabs.cs" Line="1" Column="1" />
+      <File FileName="Assets\OVR\Editor\OVRDeviceEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets\OVR\Editor\OVRBuild.cs" Line="1" Column="1" />
+      <File FileName="Assets\OVR\OVRImageEffects\OVRLensCorrection.shader" Line="1" Column="1" />
+      <File FileName="Assets\ReverseNormals.cs" Line="1" Column="1" />
+      <File FileName="Assets\movement.js" Line="3" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
